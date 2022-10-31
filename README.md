@@ -1,5 +1,5 @@
 ## Demo Video 💧
-[![Watch the video](https://img.youtube.com/watch?v=FL7ec9KQx9A/default.jpg)](https://youtube.com/watch?v=FL7ec9KQx9A)
+[![Alt text](https://img.youtube.com/vi/FL7ec9KQx9A/0.jpg)](https://www.youtube.com/watch?v=FL7ec9KQx9A)
 
 
 ## Inspiration 💧
