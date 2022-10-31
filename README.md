@@ -1,3 +1,7 @@
+## Demo Video 💧
+[![Watch the video](https://img.youtube.com/watch?v=FL7ec9KQx9A/default.jpg)](https://youtube.com/watch?v=FL7ec9KQx9A)
+
+
 ## Inspiration 💧
 COVID-19 has caused a large spike in water usage across the nation, leading to a 28% increase in our own city of New York, where two of our three team members live, and a 16% increase in shower-use nationwide. Streamy is here to help! Streamy combines music streaming and gamification to incentivize users to take shorter showers; after all, each minute taken off a shower saves 2.5 gallons of water! Streamy is saving the world’s water, one song at a time. 
 
