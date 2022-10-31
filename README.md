@@ -1,6 +1,6 @@
 ## Demo Video 💧
-[![Alt text](https://img.youtube.com/vi/FL7ec9KQx9A/0.jpg)](https://www.youtube.com/watch?v=FL7ec9KQx9A)
-
+[![Streamy](https://img.youtube.com/vi/FL7ec9KQx9A/0.jpg)](https://www.youtube.com/watch?v=FL7ec9KQx9A)
+🏆 Best Gaming Hack, TechTogether's HobbyHacks
 
 ## Inspiration 💧
 COVID-19 has caused a large spike in water usage across the nation, leading to a 28% increase in our own city of New York, where two of our three team members live, and a 16% increase in shower-use nationwide. Streamy is here to help! Streamy combines music streaming and gamification to incentivize users to take shorter showers; after all, each minute taken off a shower saves 2.5 gallons of water! Streamy is saving the world’s water, one song at a time. 
